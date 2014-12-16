@@ -1,2 +1,2 @@
 new test file
-Creating new branch for git is very quichly.
+Creating new branch for git is very quichly & simple.
